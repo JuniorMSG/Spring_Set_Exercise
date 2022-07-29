@@ -1,4 +1,4 @@
-package logic;
+package com.devCat.springboot.logic;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
